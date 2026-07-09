@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello\n";
+	std::cout << "Try Second Commit\n";
 
 	return 0;
 }
